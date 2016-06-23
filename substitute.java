@@ -1,1 +1,1 @@
-System.out.print("this is a susbtitute 24");
+System.out.print("this is a susbtitute 25");
